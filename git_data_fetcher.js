@@ -1,5 +1,5 @@
 const openSource = {
-  githubConvertedToken: "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",
+  githubConvertedToken: "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",
   githubUserName: "Naman-mahi",
 };
 
